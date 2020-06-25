@@ -1785,7 +1785,7 @@
 	}
 
 	a {
-		color: #F64747;
+		color: #000000;
 	}
 
 	strong, b {
@@ -2027,7 +2027,7 @@
 		input[type="button"].special,
 		button.special,
 		.button.special {
-			background-color: #F64747;
+			background-color: #000000;
 			color: #ffffff !important;
 		}
 
