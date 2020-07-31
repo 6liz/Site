@@ -1664,14 +1664,6 @@
 
 		}
 
-	a {
-		text-decoration: underline;
-	}
-
-		a:hover {
-			text-decoration: none;
-		}
-
 	strong, b {
 		font-weight: 600;
 	}
@@ -3456,7 +3448,7 @@
 
 	}
 
-/* GS Header */
+/* GS Header and others */
 
 	#GSheader {
 		text-align: center;
@@ -3465,6 +3457,7 @@
 
 		#GSheader h1 {
 			color: rgba(255, 255, 255, 0.65);
+			font-size: 1.6em;
 		}
 
 		#GSheader .avatar {
@@ -3619,8 +3612,7 @@
 			position: absolute;
 			right: 0;
 			text-align: right;
-			top: 0;
-			vertical-align: middle;
+			top: 0;;
 			width: 7em;
 		}
 
@@ -4307,6 +4299,7 @@
 
 			.thumbnails a h3 {
 				margin: 1em;
+				font-size: 1em;
 			}
 
 			.thumbnails a:hover {
