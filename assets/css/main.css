@@ -26,6 +26,14 @@
 	body {
 		line-height: 1;
 	}
+	
+	a {
+		text-decoration: none;
+	}
+
+	a:hover {
+		text-decoration: none;
+	}
 
 	ol, ul {
 		list-style: none;
@@ -3448,7 +3456,7 @@
 
 	}
 
-/* GS Header and others */
+/* GS */
 
 	#GSheader {
 		text-align: center;
@@ -4300,6 +4308,7 @@
 			.thumbnails a h3 {
 				margin: 1em;
 				font-size: 1em;
+				font-weight: 100;
 			}
 
 			.thumbnails a:hover {
