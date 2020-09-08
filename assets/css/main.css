@@ -3544,6 +3544,10 @@
 					width: 6em;
 				}
 
+				#GSheader h1 {
+					font-size: 0.8em;
+				}
+
 			}
 
 /* Menu */
