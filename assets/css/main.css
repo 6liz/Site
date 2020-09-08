@@ -4357,11 +4357,12 @@
 		@media screen and (max-width: 480px) {
 
 			.thumbnails {
-				display: block;
+				display: block
 			}
 
 				.thumbnails a {
 					margin: 0 0 2em 0 !important;
+					width: 100%;
 				}
 
 				.thumbnails > div {
