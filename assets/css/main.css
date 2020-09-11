@@ -3480,14 +3480,6 @@
 				width: 10em;
 			}
 
-		@media screen and (max-width: 1280px) {
-
-			#GSheader {
-				padding: 4em 0 2em 0;
-			}
-
-		}
-
 			#GSheader > a {
 			-moz-transition: color 0.2s ease-in-out;
 			-webkit-transition: color 0.2s ease-in-out;
@@ -3545,7 +3537,7 @@
 				}
 
 				#GSheader h1 {
-					font-size: 1.3em;
+					font-size: 1em;
 				}
 
 			}
@@ -4262,14 +4254,6 @@
 		padding: 0em 0 2em 0;
 	}
 
-		@media screen and (max-width: 736px) {
-
-			#main {
-				padding: 3em 0 1em 0;
-			}
-
-		}
-
 /* Thumbnails */
 
 	.thumbnails {
@@ -4341,7 +4325,7 @@
 		@media screen and (max-width: 1280px) {
 
 			.thumbnails {
-				margin: 6em 6em 6em 6em;
+				margin: 0em 1.5em 0em 0em;
 			}
 
 				.thumbnails a {
