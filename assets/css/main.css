@@ -4349,7 +4349,7 @@
 		@media screen and (max-width: 480px) {
 
 			.thumbnails {
-				display: block
+				display: flex
 			}
 
 				.thumbnails a {
@@ -4358,7 +4358,7 @@
 				}
 
 				.thumbnails > div {
-					display: block;
+					display: flex;
 					width: 100%;
 				}
 
