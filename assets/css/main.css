@@ -4361,13 +4361,14 @@
 			}
 
 				.thumbnails a {
-					margin: 0 0 2em 0 !important;
+					margin: 0 0 0.8em 0 !important;
 					width: 100%;
 				}
 
 				.thumbnails > div {
 					display: flex;
 					width: 100%;
+					padding-left: 1em;
 				}
 
 					.thumbnails > div:last-child > :last-child {
