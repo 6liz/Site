@@ -1862,6 +1862,14 @@
 				padding: 1em;
 			}
 
+			.box header h2 {
+				font-size: 2em;
+			}
+
+			.box header p {
+				font-size: 1.5em;
+			}
+
 		}
 
 /* Button */
